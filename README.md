@@ -1,3 +1,3 @@
 # Projket transformacja #matrix
 
-Tutaj pojawi się 5 dni z projektu transformacji - cześć perswazja
+Tutaj pojawi się 5 dni z projektu transformacji - cześć pierwsza
